@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <br><br>
+  <samp>
+I'm Marsa. A frontend engineer passionate about design systems and modular design.
+</p>
 
 <!--
 **mglavall/mglavall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
