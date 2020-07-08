@@ -1,8 +1,16 @@
-<p align="center">
+<div align="center">
+  <h1>you can call me Marsa,</h1>
   <br><br>
-  <samp>
-I'm Marsa. A frontend engineer passionate about design systems and modular design.
-</p>
+  <p>
+ i'm a frontend engineer passionate about design systems and modular design.
+ some of my personality traits include:
+  </p>
+ <ul>
+ <li>
+ SUP
+ </li>
+  </ul>
+</div>
 
 <!--
 **mglavall/mglavall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
