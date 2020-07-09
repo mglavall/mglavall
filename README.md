@@ -9,7 +9,8 @@
   <br>
   <div align="center">
     <img width="100px" src="https://github.com/mglavall/mglavall/blob/master/profile.jpg?raw=true" ></img>
-    </div>
+   </div>
+  <br>
     
   
   **some of my personality traits include:**
