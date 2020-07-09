@@ -7,8 +7,8 @@
   
   </p>
   <br>
-    
     ![](https://github.com/mglavall/mglavall/profile.jpg)
+    
   
   **some of my personality traits include:**
   
