@@ -1,13 +1,24 @@
-<div align="center">
-  <h1>you can call me Marsa,</h1>
-  <br><br>
+<div>
+  <h3>you can call me Marsa,</h3>
+  <br>
   <p>
  i'm a frontend engineer passionate about design systems and modular design.
- some of my personality traits include:
+    <br>
+ 
   </p>
+  some of my personality traits include:
  <ul>
  <li>
- SUP
+ living between amsterdam and barcelona
+ </li>
+   <li>
+ asking annoying questions to my colleagues
+ </li>
+     <li>
+ figuring out ways to combine design and code
+ </li>
+       <li>
+ struggling with being too funny while being humble about it
  </li>
   </ul>
 </div>
