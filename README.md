@@ -7,7 +7,7 @@
   
   </p>
   <br>
-    <img src="https://github.com/mglavall/mglavall/profile.jpg"></img>
+    <img width="30px" src="https://github.com/mglavall/mglavall/blob/master/profile.jpg?raw=true" align="center"></img>
     
   
   **some of my personality traits include:**
