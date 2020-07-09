@@ -7,7 +7,7 @@
   
   </p>
   <br>
-    ![](https://github.com/mglavall/mglavall/profile.jpg)
+    <img src="https://github.com/mglavall/mglavall/profile.jpg"></img>
     
   
   **some of my personality traits include:**
