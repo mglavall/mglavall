@@ -4,9 +4,11 @@
   <br>
   <p>
     a frontend engineer passionate about design systems and modular design.
-  <br>
- 
+  
   </p>
+  <br>
+    
+    ![](https://github.com/mglavall/mglavall/profile.jpg)
   
   **some of my personality traits include:**
   
