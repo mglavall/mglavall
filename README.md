@@ -15,10 +15,10 @@
   
   **some of my personality traits include:**
   
-   🚴‍♂️living between amsterdam and barcelona<br>
-   😡asking annoying questions to my colleagues<br>
-   🖌️figuring out ways to combine design and code<br>
-   🤡struggling with being too funny while being humble about it
+   living between amsterdam and barcelona
+   asking annoying questions to my colleagues
+   figuring out ways to combine design and code
+   struggling with being too funny while being humble about it
   
   </samp>
 </div>
