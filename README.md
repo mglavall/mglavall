@@ -1,6 +1,6 @@
 <div>
   <samp>
-  <h3>I'm Marsa</h3>
+  <h1>I'm Marsa</h1>
   <br>
   <p>
     a frontend engineer passionate about design systems and modular design.
@@ -8,20 +8,11 @@
  
   </p>
   <b>some of my personality traits include:</b>
- <ul>
- <li>
- living between amsterdam and barcelona
- </li>
-   <li>
- asking annoying questions to my colleagues
- </li>
-     <li>
- figuring out ways to combine design and code
- </li>
-       <li>
- struggling with being too funny while being humble about it
- </li>
-  </ul>
+  <br>
+ * living between amsterdam and barcelona
+  * asking annoying questions to my colleagues
+  * figuring out ways to combine design and code
+  *  struggling with being too funny while being humble about it
   </samp>
 </div>
 
