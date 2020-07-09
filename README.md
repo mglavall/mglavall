@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <samp>
   <h1>I'm Marsa</h1>
   <br>
