@@ -18,7 +18,6 @@
    living between amsterdam and barcelona<br>
    asking annoying questions to my colleagues<br>
    figuring out ways to combine design and code<br>
-   struggling with being too funny while being humble about it<br>
   
   </samp>
 </div>
